@@ -1,0 +1,2 @@
+I would say that we need atleast 5 tests so the 2 extra tests would be to make sure that the input consists of only positive integers 
+and that there are only 3 numbers used as input.
